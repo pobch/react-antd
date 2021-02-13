@@ -1,0 +1,8 @@
+.pob {
+  background-color: var(--primary-color);
+}
+
+:global(.toy) {
+  color: pink;
+  background-color: var(--sec-color);
+}
